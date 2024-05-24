@@ -1,3 +1,8 @@
+index.html
+.bundle
+ab-results*
+vendor/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
